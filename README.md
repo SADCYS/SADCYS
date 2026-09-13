@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sadeem Almutairi 👋
+# Hi, I'm Sadeem Almutairi 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Ethical+Hacking;Red+Team;Purple+Team;Security+%26+Defensive+Techniques" />
 
@@ -16,9 +16,9 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔐 Suspicious Login Attempt Detector
+###  Suspicious Login Attempt Detector
 
 A Python-based security tool designed to identify suspicious authentication activity and potential brute-force attacks.
 
@@ -45,7 +45,7 @@ A cybersecurity project developed during **DefenseThon 2026**, focused on detect
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 <img src="https://skillicons.dev/icons?i=python,linux,git,github" />
 
