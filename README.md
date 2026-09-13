@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 `Ethical Hacking` · `Red Team` · `Purple Team` · `DFIR` · `Network Security`
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### Suspicious Login Attempt Detector
 
@@ -44,7 +44,7 @@ A Python-based security tool designed to detect suspicious authentication activi
 
 ---
 
-### 🛡️ Daraa — Threat Monitoring Platform
+###  Daraa — Threat Monitoring Platform
 
 A cybersecurity project developed during **DefenseThon 2026**, focused on detecting suspicious activity and supporting security monitoring.
 
@@ -77,7 +77,7 @@ A cybersecurity project developed during **DefenseThon 2026**, focused on detect
 
 ---
 
-## ⚙️ Technologies
+##  Technologies
 
 <div align="center">
 
