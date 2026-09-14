@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-Sadeem%20Almutairi-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:sadim17s@outlook.com">
+<img src="https://img.shields.io/badge/Email-sadim17s%40outlook.com-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -122,16 +126,6 @@ Cybersecurity threat monitoring project developed during <b>DefenseThon 2026</b>
 
 <a href="https://github.com/SADCYS?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/sadeem-6a613a315">
-<img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sadim17s@outlook.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 <br><br>
