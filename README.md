@@ -10,13 +10,13 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Cybersecurity student interested in **Ethical Hacking, Red Team, and Purple Team operations**, with a focus on practical security projects, detection, and defensive techniques.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <div align="center">
 
@@ -28,14 +28,14 @@ Cybersecurity student interested in **Ethical Hacking, Red Team, and Purple Team
 
 ---
 
-# 🚀 Projects
+#  Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🔐 Suspicious Login Attempt Detector</h3>
+<h3> Suspicious Login Attempt Detector</h3>
 
 A Python-based security tool designed to analyze authentication logs and identify suspicious login activity and potential brute-force attacks.
 
@@ -61,7 +61,7 @@ A Python-based security tool designed to analyze authentication logs and identif
 
 <td width="50%" valign="top">
 
-<h3>🛡️ DARAA</h3>
+<h3> DARAA</h3>
 
 A cybersecurity threat monitoring project developed during <b>DefenseThon 2026</b>, focused on detecting suspicious activity and supporting security monitoring.
 
@@ -94,7 +94,7 @@ A cybersecurity threat monitoring project developed during <b>DefenseThon 2026</
 
 <div align="center">
 
-## ⚡ Security Mindset
+##  Security Mindset
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=600&lines=RECON+%E2%86%92+ANALYZE+%E2%86%92+DETECT;DETECT+%E2%86%92+RESPOND+%E2%86%92+DEFEND;THINK+LIKE+AN+ATTACKER;DEFEND+LIKE+A+BLUE+TEAM" />
 
@@ -102,7 +102,7 @@ A cybersecurity threat monitoring project developed during <b>DefenseThon 2026</
 
 ---
 
-## 💻 Technologies
+##  Technologies
 
 <div align="center">
 
@@ -112,7 +112,7 @@ A cybersecurity threat monitoring project developed during <b>DefenseThon 2026</
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
@@ -122,7 +122,7 @@ A cybersecurity threat monitoring project developed during <b>DefenseThon 2026</
 
 ---
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -134,7 +134,7 @@ A cybersecurity threat monitoring project developed during <b>DefenseThon 2026</
 
 <div align="center">
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <a href="https://www.linkedin.com/in/sadeem-6a613a315">
 <img src="https://img.shields.io/badge/LINKEDIN-SADEEM%20ALMUTAIRI-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
