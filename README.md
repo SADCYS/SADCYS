@@ -12,7 +12,7 @@
 
 ##  About Me
 
-Cybersecurity student interested in **Ethical Hacking, Red Team, and Purple Team operations**, with a focus on practical security projects, detection, and defensive techniques.
+Cybersecurity student interested in **Ethical Hacking,and Purple Team operations**, with a focus on practical security projects, detection, and defensive techniques.
 
 ---
 
