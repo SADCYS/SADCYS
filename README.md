@@ -1,139 +1,92 @@
+
+<!-- SADCYS | Midnight Violet -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=180&section=header&text=Sadeem%20Almutairi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,50:38245B,100:8B5CF6&height=200&section=header&text=SADCYS&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SECURE&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="SADCYS header"/>
 
-<br>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=BCA0FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Learning+by+Building;Exploring+the+Security+World" alt="Typing introduction"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacking;Red+Team;Purple+Team;Security+%26+Defensive+Techniques"/>
+<br/>
 
-<br><br>
+*Curiosity drives discovery. Practice builds skill.*
+
+</div>
+
+---
+
+## `01` / ABOUT ME
+
+Hi! I'm **SADCYS**, a cybersecurity student at Imam Mohammad Ibn Saud Islamic University.
+
+I'm building my technical foundation through academic projects, hands-on practice, and continuous learning. I enjoy exploring security concepts, documenting what I learn, and turning knowledge into practical experience.
+
+## `02` / AREAS OF INTEREST
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-171321?style=for-the-badge&logo=hackthebox&logoColor=BCA0FF"/>
+<img src="https://img.shields.io/badge/Security%20Labs-171321?style=for-the-badge&logo=kalilinux&logoColor=BCA0FF"/>
+<img src="https://img.shields.io/badge/Threat%20Analysis-171321?style=for-the-badge&logo=target&logoColor=BCA0FF"/>
+<img src="https://img.shields.io/badge/Continuous%20Learning-171321?style=for-the-badge&logo=bookstack&logoColor=BCA0FF"/>
+
+</div>
+
+## `03` / FEATURED PROJECTS
+
+### ◈ Suspicious Login Attempt Detector
+
+A project focused on identifying suspicious login activity.
+
+[**Explore My GitHub →**](https://github.com/SADCYS)
+
+### ◈ DERA' | درع
+
+Contributed to the threat analysis component by working with threat analysis templates and integrating them into the project workflow.
+
+**My Role:** Threat Analysis Models
+
+**Key Contributions:**
+- Worked with existing threat analysis templates.
+- Helped integrate the models into the project workflow.
+
+[**Explore My GitHub →**](https://github.com/SADCYS)
+
+## `04` / GITHUB OVERVIEW
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SADCYS&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=BCA0FF&icon_color=9B72F2&text_color=E8E1F5&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADCYS&layout=compact&hide_border=true&bg_color=0D0B12&title_color=BCA0FF&text_color=E8E1F5" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SADCYS&hide_border=true&background=0D0B12&ring=9B72F2&fire=BCA0FF&currStreakLabel=BCA0FF&sideLabels=E8E1F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A92A8" alt="GitHub contribution streak"/>
+
+</div>
+
+## `05` / CURRENT JOURNEY
+
+- Strengthening my cybersecurity fundamentals.
+- Practicing through hands-on labs and technical exercises.
+- Documenting projects and lessons learned.
+- Continuously improving my technical skills.
+
+## `06` / CONNECT
+
+<div align="center">
 
 <a href="https://github.com/SADCYS">
-<img src="https://img.shields.io/badge/GitHub-SADCYS-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-SADCYS-171321?style=for-the-badge&logo=github&logoColor=BCA0FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sadeem-6a613a315">
-<img src="https://img.shields.io/badge/LinkedIn-Sadeem%20Almutairi-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- Add your LinkedIn URL here -->
 
-<a href="mailto:sadim17s@outlook.com">
-<img src="https://img.shields.io/badge/Email-sadim17s%40outlook.com-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:38245B,100:0D0B12&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
-
----
-
-<div align="center">
-
-### Cybersecurity student building practical security projects focused on detection, monitoring, and defensive techniques.
-
-</div>
-
----
-
-#  Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3> Suspicious Login Attempt Detector</h3>
-
-<p>
-Python-based security tool that analyzes authentication logs to identify suspicious login activity and potential brute-force attacks.
-</p>
-
-<b>Focus</b>
-
-`Log Analysis` · `Threat Detection` · `Brute-Force`
-
-<br><br>
-
-<b>Tech Stack</b>
-
-`Python` · `Authentication Logs`
-
-<br><br>
-
-<a href="https://github.com/SADCYS/Suspicious-Login-Attempt-Detector">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3> DARAA</h3>
-
-<p>
-Cybersecurity threat monitoring project developed during <b>DefenseThon 2026</b>, focused on detecting suspicious activity and supporting security monitoring.
-</p>
-
-<b>Focus</b>
-
-`Threat Detection` · `SOC` · `Security Monitoring`
-
-<br><br>
-
-<b>Tech Stack</b>
-
-`Python` · `Random Forest` · `Isolation Forest`
-
-<br><br>
-
-<a href="https://github.com/SADCYS/DARAA">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-##  Technologies
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,linux,git,github"/>
-
-<br><br>
-
-`Python` · `Linux` · `Wireshark` · `Cisco` · `Git & GitHub`
-
-</div>
-
----
-
-<div align="center">
-
-##  GitHub Activity
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/SADCYS?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<sub>Build. Detect. Defend.</sub>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:5B21B6&height=100&section=footer" width="100%"/>
