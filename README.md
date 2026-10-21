@@ -3,11 +3,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,50:38245B,100:8B5CF6&height=200&section=header&text=SADCYS&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SECURE&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="SADCYS header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,50:38245B,100:8B5CF6&height=200&section=header&text=Sadeem%20Al-Mutairi&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SECURE&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Sadeem Al-Mutairi header"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=BCA0FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Learning+by+Building;Exploring+the+Security+World" alt="Typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=BCA0FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Learning+by+Building;Exploring+the+Security+World" alt="Typing introduction"/>
 
 <br/>
 
@@ -19,7 +17,7 @@
 
 ## `01` / ABOUT ME
 
-Hi! I'm **SADCYS**, a cybersecurity student at Imam Mohammad Ibn Saud Islamic University.
+Hi! I'm **Sadeem Al-Mutairi**, a cybersecurity student at Imam Mohammad Ibn Saud Islamic University.
 
 I'm building my technical foundation through academic projects, hands-on practice, and continuous learning. I enjoy exploring security concepts, documenting what I learn, and turning knowledge into practical experience.
 
@@ -40,11 +38,11 @@ I'm building my technical foundation through academic projects, hands-on practic
 
 A project focused on identifying suspicious login activity.
 
-[**Explore My GitHub →**](https://github.com/SADCYS)
+[**View GitHub Profile →**](https://github.com/SADCYS)
 
 ### ◈ DERA' | درع
 
-Contributed to the threat analysis component by working with threat analysis templates and integrating them into the project workflow.
+Contributed to the threat analysis component by working with existing threat analysis templates and integrating them into the project workflow.
 
 **My Role:** Threat Analysis Models
 
@@ -52,7 +50,7 @@ Contributed to the threat analysis component by working with threat analysis tem
 - Worked with existing threat analysis templates.
 - Helped integrate the models into the project workflow.
 
-[**Explore My GitHub →**](https://github.com/SADCYS)
+[**View GitHub Profile →**](https://github.com/SADCYS)
 
 ## `04` / GITHUB OVERVIEW
 
@@ -75,17 +73,25 @@ Contributed to the threat analysis component by working with threat analysis tem
 - Documenting projects and lessons learned.
 - Continuously improving my technical skills.
 
-## `06` / CONNECT
+## `06` / CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/SADCYS">
-  <img src="https://img.shields.io/badge/GitHub-SADCYS-171321?style=for-the-badge&logo=github&logoColor=BCA0FF"/>
+<a href="mailto:sadim17s@outlook.com">
+  <img src="https://img.shields.io/badge/Email- sadim17s%40outlook.com-171321?style=for-the-badge&logo=microsoftoutlook&logoColor=BCA0FF" alt="Email"/>
 </a>
 
-<!-- Add your LinkedIn URL here -->
+<a href="https://www.linkedin.com/in/sadeem-6a613a315/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sadeem%20Al--Mutairi-171321?style=for-the-badge&logo=linkedin&logoColor=BCA0FF" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/SADCYS">
+  <img src="https://img.shields.io/badge/GitHub-SADCYS-171321?style=for-the-badge&logo=github&logoColor=BCA0FF" alt="GitHub"/>
+</a>
 
 <br/><br/>
+
+*Let's connect, learn, and build something meaningful.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:38245B,100:0D0B12&height=100&section=footer" width="100%" alt="Footer"/>
 
